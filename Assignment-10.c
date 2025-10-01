@@ -7,7 +7,7 @@ void main(){
          
     }
    printf("The elements of the array are:");
-    for (int i=0; i<5; i++){
+    for (int i=4; i>=0; i--){
        printf("%d",a[i]);
        printf("\n");
          
